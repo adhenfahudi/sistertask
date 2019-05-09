@@ -1,6 +1,8 @@
-Google-Drive-PHP-API-Simple-App-Example
-=======================================
+Tugas Sister Upload form to google drive
+Created By 
 
-A very simple File Upload to Google Drive app sample powered with PHP.
+Nama : Adhen Prawita Fahudi
+NIM  : K3516001
+Makul: Sistem Terdistribusi
 
-This is the source code I have developed to write the article "Subiendo archivos a Google Drive con PHP" available at http://www.eduardocasas.com/blog/05-12-2012/subiendo-archivos-a-google-drive-con-php
+Terimakasih
